@@ -1,0 +1,5 @@
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Interface\bin\Debug\BIOMP.Bussiness.Interface.dll
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Interface\bin\Debug\BIOMP.Bussiness.Interface.pdb
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Interface\obj\Debug\BIOMP.Bussiness.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Interface\obj\Debug\BIOMP.Bussiness.Interface.dll
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Interface\obj\Debug\BIOMP.Bussiness.Interface.pdb

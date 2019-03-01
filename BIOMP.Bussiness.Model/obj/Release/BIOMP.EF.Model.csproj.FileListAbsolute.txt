@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Model\bin\Release\BIOMP.EF.Model.dll.config
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Model\bin\Release\BIOMP.EF.Model.dll
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Model\bin\Release\BIOMP.EF.Model.pdb
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Model\bin\Release\EntityFramework.dll
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Model\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Model\bin\Release\EntityFramework.xml
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Model\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Model\bin\Release\zh-Hans\EntityFramework.resources.dll
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Model\bin\Release\zh-Hans\EntityFramework.SqlServer.resources.dll
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Model\obj\Release\BIOMP.EF.Model.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Model\obj\Release\BIOMP.EF.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Model\obj\Release\BIOMP.EF.Model.csproj.CopyComplete
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Model\obj\Release\BIOMP.EF.Model.dll
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Model\obj\Release\BIOMP.EF.Model.pdb

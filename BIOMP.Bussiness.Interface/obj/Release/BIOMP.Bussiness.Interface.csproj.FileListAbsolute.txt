@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Interface\bin\Release\BIOMP.Bussiness.Interface.dll
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Interface\bin\Release\BIOMP.Bussiness.Interface.pdb
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Interface\obj\Release\BIOMP.Bussiness.Interface.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Interface\obj\Release\BIOMP.Bussiness.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Interface\obj\Release\BIOMP.Bussiness.Interface.dll
+C:\Users\Administrator\Desktop\BIOMP\BIOMP.Bussiness.Interface\obj\Release\BIOMP.Bussiness.Interface.pdb

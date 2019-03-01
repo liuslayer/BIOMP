@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIOMP.Web", "BIOMP.Web\BIOMP.Web.csproj", "{519A36F9-3DA7-434D-A92E-9DB24ED46013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIOMP.Web.Tests", "BIOMP.Web.Tests\BIOMP.Web.Tests.csproj", "{74F70B0C-2680-4735-8B76-F954C6650485}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bussiness", "Bussiness", "{EE6DCA93-C9B6-4383-BAA8-EEBDF10D0582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIOMP.Bussiness.Interface", "BIOMP.Bussiness.Interface\BIOMP.Bussiness.Interface.csproj", "{0A1CA87E-7D64-4655-9DA0-3D84C3F61024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIOMP.Bussiness.Service", "BIOMP.Bussiness.Service\BIOMP.Bussiness.Service.csproj", "{ABD30404-A1FE-4FAD-A26E-E6628E73987D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BIOMP.EF.Model", "BIOMP.Bussiness.Model\BIOMP.EF.Model.csproj", "{74E462E5-49E3-49F4-ABE4-478DEB2F76A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{519A36F9-3DA7-434D-A92E-9DB24ED46013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519A36F9-3DA7-434D-A92E-9DB24ED46013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519A36F9-3DA7-434D-A92E-9DB24ED46013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519A36F9-3DA7-434D-A92E-9DB24ED46013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F70B0C-2680-4735-8B76-F954C6650485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F70B0C-2680-4735-8B76-F954C6650485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F70B0C-2680-4735-8B76-F954C6650485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F70B0C-2680-4735-8B76-F954C6650485}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1CA87E-7D64-4655-9DA0-3D84C3F61024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1CA87E-7D64-4655-9DA0-3D84C3F61024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1CA87E-7D64-4655-9DA0-3D84C3F61024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1CA87E-7D64-4655-9DA0-3D84C3F61024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD30404-A1FE-4FAD-A26E-E6628E73987D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD30404-A1FE-4FAD-A26E-E6628E73987D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD30404-A1FE-4FAD-A26E-E6628E73987D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD30404-A1FE-4FAD-A26E-E6628E73987D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E462E5-49E3-49F4-ABE4-478DEB2F76A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E462E5-49E3-49F4-ABE4-478DEB2F76A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E462E5-49E3-49F4-ABE4-478DEB2F76A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E462E5-49E3-49F4-ABE4-478DEB2F76A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A1CA87E-7D64-4655-9DA0-3D84C3F61024} = {EE6DCA93-C9B6-4383-BAA8-EEBDF10D0582}
+		{ABD30404-A1FE-4FAD-A26E-E6628E73987D} = {EE6DCA93-C9B6-4383-BAA8-EEBDF10D0582}
+		{74E462E5-49E3-49F4-ABE4-478DEB2F76A2} = {EE6DCA93-C9B6-4383-BAA8-EEBDF10D0582}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B9B6761-5098-4611-9B9F-2A44B28C48BD}
+	EndGlobalSection
+EndGlobal
